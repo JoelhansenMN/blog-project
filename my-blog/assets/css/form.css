@@ -1,0 +1,21 @@
+header {
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 5rem;
+  padding: 10px;
+  margin-bottom: 5px;
+  background-color: rgb(3, 57, 108);
+  color: aliceblue;
+}
+
+.light {
+  background-color:rgb(186,179,170);
+  color:black;
+}
+
+header.light{
+  background-color:rgb(145,143,141);
+  color:black;
+
+}
+
